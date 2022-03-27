@@ -11,6 +11,7 @@
   inputs.src-gamelight-master.ref   = "refs/heads/master";
   inputs.src-gamelight-master.owner = "dom96";
   inputs.src-gamelight-master.repo  = "gamelight";
+  inputs.src-gamelight-master.dir   = "";
   inputs.src-gamelight-master.type  = "github";
   
   inputs."sdl2".owner = "nim-nix-pkgs";
